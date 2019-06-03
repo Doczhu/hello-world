@@ -1,2 +1,2 @@
 # hello-world
-My litter repository。
+My first repository。
